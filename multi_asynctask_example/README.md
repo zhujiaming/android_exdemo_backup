@@ -1,0 +1,2 @@
+#multi_asynctask_example
+AsyncTask实现多任务下载控制。
